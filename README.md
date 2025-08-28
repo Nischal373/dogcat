@@ -22,9 +22,10 @@ Built with **PyTorch** and **TorchVision**, served with a **Gradio** web interfa
 
 2.Create a virtual environment:
 
-python -m venv .venv
-source .venv/bin/activate   # macOS/Linux
-.venv\Scripts\activate      # Windows
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate   # macOS/Linux
+   .venv\Scripts\activate      # Windows
 
 3.Install dependencies:
 pip install -r requirements.txt
@@ -35,7 +36,7 @@ python predict.py
 
 🙌 Acknowledgements
 
-PyTorch
-TorchVision Models
-Gradio
-Dataset inspiration: Kaggle Dogs vs Cats
+PyTorch<br>
+TorchVision Models<br>
+Gradio<br>
+Dataset inspiration: Kaggle Dogs vs Cats<br>
