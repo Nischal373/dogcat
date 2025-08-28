@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+numpy
+pillow
+scikit-learn
+tqdm
+gradio
