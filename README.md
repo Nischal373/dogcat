@@ -17,7 +17,7 @@ Built with **PyTorch** and **TorchVision**, served with a **Gradio** web interfa
 ## 🛠️ Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/dogcat.git
+   git clone https://github.com/Nischal373/dogcat.git
    cd dogcat
 
 2.Create a virtual environment:
