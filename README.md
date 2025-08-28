@@ -21,18 +21,20 @@ Built with **PyTorch** and **TorchVision**, served with a **Gradio** web interfa
    cd dogcat
 
 2.Create a virtual environment:
-
    ```bash
    python -m venv .venv
    source .venv/bin/activate   # macOS/Linux
    .venv\Scripts\activate      # Windows
-
+   ```
 3.Install dependencies:
+```bash
 pip install -r requirements.txt
-
+```
 🔮 Inference
 Gradio web app:
+```bash
 python predict.py
+```
 
 🙌 Acknowledgements
 
